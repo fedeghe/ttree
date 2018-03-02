@@ -1,0 +1,14 @@
+{
+  "name": "ttree",
+  "version": "1.0.0",
+  "description": "just a nodejs terminal command experiment like tree",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "federico.ghedina@gmail.com",
+  "license": "MIT",
+  "bin": {
+    "ttree": "src/bin.js"
+  }
+}
